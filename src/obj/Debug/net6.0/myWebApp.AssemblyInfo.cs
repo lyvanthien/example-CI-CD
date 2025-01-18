@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("myWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bdba5d75d84bf17d424271c144f16e89e16c4e3")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e933ab08fe9b9fe73fdd63b0517d1913c92d45e1")]
+>>>>>>> 295c091 (Updated Index.cshtml file.)
 [assembly: System.Reflection.AssemblyProductAttribute("myWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
